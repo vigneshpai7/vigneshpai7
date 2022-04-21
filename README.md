@@ -11,4 +11,6 @@ I'm Vignesh Pai 👋
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:I Listen Music While Writing code
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=vigneshpai7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneahpai7&show_icons=true&theme=tokyonight)
+![Langs used ](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshpai7&theme=tokyonight)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vigneshpai7.vigneshpai7)
