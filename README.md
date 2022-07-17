@@ -16,5 +16,5 @@ I'm Vignesh Pai 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshpai7&show_icons=true&theme=tokyonight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshpai7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshpai7&theme=tokyonight)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vigneshpai7&theme=dark)](https://git.io/streak-stats)
