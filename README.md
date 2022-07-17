@@ -1,7 +1,7 @@
 Hey ... 
 I'm Vignesh Pai 👋
 
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vigneshpai7.vigneshpai7)
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Django Full Stack Web Development
 - 👯 I’m looking to collaborate on any Web development Project
@@ -16,5 +16,5 @@ I'm Vignesh Pai 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshpai7&show_icons=true&theme=tokyonight)<br>
 ![Langs used ](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshpai7&theme=tokyonight)<br>
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vigneshpai7.vigneshpai7)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vigneshpai7&theme=dark)](https://git.io/streak-stats)
