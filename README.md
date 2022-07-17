@@ -15,6 +15,6 @@ I'm Vignesh Pai 👋
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshpai7&show_icons=true&theme=tokyonight)<br>
-![Langs used ](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshpai7&theme=tokyonight)<br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vigneshpai7)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vigneshpai7&theme=dark)](https://git.io/streak-stats)
